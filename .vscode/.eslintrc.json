@@ -1,0 +1,17 @@
+{
+    "extends": [
+        "airbnb"
+    ],
+    "env": {
+        "browser": true,
+        "node": true,
+        "es2021": true
+    },
+    "parserOptions": {
+        "ecmaVersion": "latest",
+        "sourcetype": "module"
+    },
+    "plugins": [
+        "react"
+    ]
+}
