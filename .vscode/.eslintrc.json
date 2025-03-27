@@ -12,6 +12,6 @@
         "sourcetype": "module"
     },
     "plugins": [
-        "react"
+        "node"
     ]
 }
