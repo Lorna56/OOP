@@ -27,4 +27,9 @@
       assert.equal(multiply(4, 4), 16);
     });
   });
+  describe("Testing multiplication on a fifth cycle", () => {
+    it("Should multiply two values", () => {
+      assert.equal(multiply(23, 45), 23 * 45);
+    });
+  }); 
  
