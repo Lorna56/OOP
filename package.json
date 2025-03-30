@@ -2,6 +2,7 @@
   "name": "oop",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "naula.js",
   "scripts": {
     "test": "mocha"
