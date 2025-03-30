@@ -17,5 +17,9 @@
     });
   });
   
-  
+  describe("Testing multiplication on a third cycle", () => {
+    it("Should multiply two values", () => {
+      assert.equal(multiply(3, 3), 9);
+    });
+  });
  
