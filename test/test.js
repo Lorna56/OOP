@@ -1,7 +1,7 @@
 
   
   import { assert } from "chai";
-  import { multiply } from "../multiply.js";
+  import { multiply, multiplyDifferently } from "../multiply.js";
   
   
   describe("Testing multiplication on the first cycle", () => {
