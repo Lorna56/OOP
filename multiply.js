@@ -10,3 +10,4 @@ const multiplyDifferently = (seed, multiplier) => {
 };
 
 export { multiply, multiplyDifferently };
+
